@@ -2,6 +2,7 @@
 Repository ini memuat seluruh proses pengolahan data dan pemodelan yang digunakan dalam skripsi berjudul:
 "PENERAPAN K-MEANS DENGAN OPTIMASI SIMULATED ANNEALING UNTUK REKOMENDASI PERSONALISASI PEMBELAJARAN BERBASIS COMPUTATIONAL THINKING PADA RUMAH ILMU ADAPTIF"
 Penelitian ini menerapkan pendekatan unsupervised learning untuk mengelompokkan mahasiswa berdasarkan pola capaian akademik dan menyusun rekomendasi pembelajaran berbasis kerangka Computational Thinking (CT).
+
 🎯 Tujuan Penelitian
 1. Penelitian ini bertujuan untuk:
 2. Membentuk klaster mahasiswa berdasarkan nilai Pretest, Posttest, dan Ujian
